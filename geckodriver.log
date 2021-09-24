@@ -1,0 +1,9 @@
+1632493186185	geckodriver	INFO	Listening on 127.0.0.1:57891
+1632493189192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Kanav\\AppData\\Local\\Temp\\rust_mozprofileJDbbpK"
+1632493191589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kanav\\AppData\\Local\\Temp\\rust_mozprofileJDbbpK\\search.json.mozlz4", (void 0)))
+1632493200862	Marionette	INFO	Listening on port 49767
+1632493201450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+1632493232084	Marionette	INFO	Stopped listening on port 49767
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
